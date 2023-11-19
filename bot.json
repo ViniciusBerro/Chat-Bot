@@ -1,0 +1,101 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["boa", "obrigado"],
+    "bot_response": "Precisando e so perguntar",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["ola", "oi","bom dia","boa","tarde","noite"],
+    "bot_response": "Ola, como posso te ajudar hoje?",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["ate", "ate mais", "tchau", "xau"],
+    "bot_response": "Ate mais",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["equivalencia","vale","igual","valor","pila","moeda","verde"],
+    "bot_response": "O Pila Verde tem sua equivalencia identica ao Real Brasileiro, ou seja, 1 Pila Verde seria 1 Real Brasileiro.\nPara obter a moeda, e necessario trocar 1KG de lixo organico. Com essa quantidade, voce obtem 1 Pila Verde.",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["que","pila","azul","moeda"],
+    "bot_response": "Uma forma de promover a troca de lixo reciclavel pela cedula, que podem ser usadas para comprar horarios e utilizar ginasios e quadras esportivas do município, alem de participacao em campeonatos e acoes esportivas.",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["consigo","obtenho","ganho","pila","moeda","azul"],
+    "bot_response": "O Pila Azul pode ser obtido como atraves da troca de lixo reciclavel nos pontos de coleta. Uma certa quantidade de lixo reciclavel tem valores diferentes na quantia obtida.",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["pontos","tipo","troca","posso","pode","trocar","coleta","lixo","bairro","bairros"],
+    "bot_response": "Defina se o lixo e organico ou reciclavel",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["que","qual","tipo","material","reciclavel","troca","trocar","pila","moeda","azul"],
+    "bot_response": "O Pila Azul considera apenas lixo reciclavel para troca, onde cada quantidade especifica do material equivale uma quantia diferente de cedulas.\nSao eles: aluminio (1kg de aluminio equivale a 4 Pilas),\nlatinhas (18 latinhas equivalem a 1 Pila),\ngarrafas PET (10 garrafas equivalem a 1 Pila, enquanto as versoes menorem precisam de 25 garrafinhas para 1 Pila),\nplasticos (1kg de plastico equivale a 1 Pila),\npapel (1kg de papel equivale a 1 Pila) e\nvidro (5kg de vidro equivalem a 1 Pila).",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["pontos","tipo","troca","posso","pode","trocar","coleta","lixo","organico","bairro","bairros","pila","moeda","verde"],
+    "bot_response": "A troca do lixo organico (Apenas o lixo organico: cascas e restos de legumes, frutas e verduras, a borra do cafe e tambem a erva-mate.)\nocorre em diferentes bairros de acordo com o dia da semana, confira:\nSegunda - Alto da Boa Vista (9h as 11h) e Gaspar Dutra (14h as 16h),\nTerca - Vila Nova (9h as 11h), Vila Rica (9h as 11h) e CRAS Vo Angela (14h as 16h),\nQuarta - Lulu Genro (9h as 11h), Associacao Joao Evangelista (14h as 16h) e CRAS Nery (14h as 16h),\nQuinta - Secretaria do Meio Ambiente (9h as 11h), Associacao Joao Goulart (9h as 11h), Associacao Missoes (14h as 16h) e Associacao Nei Pereira (14h as 16h),\nSexta - Sao Jorge (9h as 11h) e Associacao Maria Alice Gomes (9h as 11h) e\nSabado - Praca Moises Viana (8h as 10h).",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["pontos","onde","tipo","troca","trocar","posso","pode","coleta","lixo","reciclavel","bairro","bairros","pila","moeda","azul"],
+    "bot_response": "A troca do lixo reciclavel ocorre em diferentes bairros de acordo com o dia da semana, confira:\nTerca - Vila Rica (9h as 11h) e Ginasiao (14h as 16h),\nQuarta - Lulu Genro (9h as 14h) e Joao Evangelista (14h as 16h),\nQuinta - Missoes (14h as 16h) e\nSexta - Castilhos (14h as 16h).",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["que","pila","verde","moeda"],
+    "bot_response": "Uma forma de promover a troca de lixo organico pela cedula, para que entao possa ser utilizada em feiras da cidade.\nOs feirantes, entao, trocam por insumos agracolas, como sementes e adubo.",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["posso","ajuda","tirar","duvidas","sobre","pila","moeda","azul","verde"],
+    "bot_response": "Claro que sim, estou aqui para isso",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["onde","feira","local","localização","feiras"],
+    "bot_response": "As feiras locais estao espalhadas por Santiago, onde os bairros selecionados atendem em diferentes dias e diferentes horarios.\nEles sao:\nBairro Vila Nova (segundas e quintas, a partir das 16h),\nFeira do Produtor do Hortomercado (tercas e quintas, a partir das 16h50m),\nFeira do Ginasao (quartas, a partir das 16h)\ne a Feira de Organicos da Praca Moises Viana (sabados, das 7h as 10h).",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["posso","gastar","pode","usar","pila","moeda","verde"],
+    "bot_response": "O Pila Verde pode ser usado para efetuar comprar nas feiras locais da cidade, as chamadas Feira do Produtor.",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["posso","usar","feira","pila","moeda","azul"],
+    "bot_response": "Nao! Somente o Pila Verde tem valor monetario para ser utilizado em feiras do produtor.",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["eu","meu","pessoa","tenho","ganho","beneficio","pila","moeda","verde","produtor","agricultor","beneficiado"],
+    "bot_response": "O produtor consegue insumos (como sementes e adubos) de maneira mais facil, rapida e barata,\nenquanto voce estara ajudando o meio ambiente e tambem o comercio local, além de ter acesso a opcoes saudaveis de legumes, verduras e outros alimentos.",
+    "required_words": []
+  }
+
+
+
+]
